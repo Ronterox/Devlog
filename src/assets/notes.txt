@@ -1,4 +1,4 @@
-Main Page
+# Main Page
 
 Hi there me, or other person
 This is my idea of a devlog, to the development of my brain,
@@ -13,7 +13,7 @@ I won't get mad if somebody else that is not me read this, but still weird,
 
 This is mostly for me, but also if somebody finds something benefitial here, good for you buddy!
 
-Goals
+# Goals
 
 Here are my current goals, maybe, is just a backlog most probably, even though, all the following goals will eventually be completed,
 no matter what, even after I die, or whatever, either because I'm not that creative and somebody does it, or I'll leave it to my robots to do it
@@ -25,7 +25,7 @@ Money
 This is an essential, non-essential part of this, just another extra idea. Is mostly about a message, so I'm kind of quantifying my progress,
 like a videogame?, I should probably add another currency, like happiness, or will to live or whatever, just for game-like quantification, like for fun
 
-Today
+# Friday 21 Apr 2023
 
 I believe my expectations on things are to high right now, and I have no idea how to lower them, I made just use google or chatgpt to check how to start lower them,
 but my ego wont let it happen.
@@ -41,4 +41,53 @@ This foking web I wanted randomly in a new thing, so I decided, hey let's try Vu
 
 Conclusion: Update your stuff, and make sure they are stable new versions only
 
+[fuck-img]
+
 Okay, so I guess webm doesn't work on vscode neither vue so, GIF it is
+
+[gif-img]
+
+[gif]
+
+## Starting Vue
+
+Vue has a pretty cool interactive tutorial so that's what I've been doing,
+
+[tutorial-img]
+
+After completing, I can see that is pretty easy to understand, also it facilitates fast coding,
+without annoying boilerplate
+
+They also have a pretty cool tutorial video set for reacts devs to vue, but for some reason,
+you can only watch 2/10 videos free, so yeah..., it was pretty good, for the 2 vids that I watched
+
+Also they are using a weird coding style that is pretty much class components for the tutorial, 
+
+[weird-style-img]
+
+but on the vids the use the one that looks like react hooks,
+
+[react-style-img]
+
+So I guess, tey recommend both?
+
+## Discovering new things
+
+This is why doing new things is fun, I just discovered a pretty cool and useful free api
+
+[json-placeholder-imgs]
+
+And, literally the best library for any JS Project ever
+
+[confetti-imgs]
+
+Also there is this <pre> tag that you can literally just pass data as it is, and it will stay with the passed formatting
+
+[pre-tag-imgs]
+
+## Space Maniac
+
+My assets on this project are already occupying to much space (2mb), I have to get all these images on imgur,
+I add the devlog creator ASAP, so I don't have to code the blog damn pages :)
+
+Cheers
