@@ -1,0 +1,44 @@
+Main Page
+
+Hi there me, or other person
+This is my idea of a devlog, to the development of my brain,
+I will try to write and upload productive and unproductive things that I do so that my train an AI on my data,
+And create another little me, maybe, maybe not
+
+Also I'm doing this so I have the pressure of publishing a part of my life on the internet,
+maybe, hopefully, giving me motivation to use my procrastination as a weapon, anyway
+
+I know that once something reaches the internet is completely free and for everybody to see, so
+I won't get mad if somebody else that is not me read this, but still weird,
+
+This is mostly for me, but also if somebody finds something benefitial here, good for you buddy!
+
+Goals
+
+Here are my current goals, maybe, is just a backlog most probably, even though, all the following goals will eventually be completed,
+no matter what, even after I die, or whatever, either because I'm not that creative and somebody does it, or I'll leave it to my robots to do it
+
+I'll try anotate them as I boss that have no idea about it, but really wants it. Like a baby pretty much, that just adds like difficulty and positivism, instead of realism? (what every negative person ever said)
+
+Money
+
+This is an essential, non-essential part of this, just another extra idea. Is mostly about a message, so I'm kind of quantifying my progress,
+like a videogame?, I should probably add another currency, like happiness, or will to live or whatever, just for game-like quantification, like for fun
+
+Today
+
+I believe my expectations on things are to high right now, and I have no idea how to lower them, I made just use google or chatgpt to check how to start lower them,
+but my ego wont let it happen.
+
+Okay, I looked it up, and is definitely my expectations are a little bit too high, I don't want them to be low really though, wonder why.
+
+Anyway this is what I did today, after watching a little bit of Dr Uttut, I've decided to go and create this page, not because of the video but because it gave me the motivation 
+to do something fun, and dumb, yay
+
+I still don't know if I will upload gifs or webms, but I have 2 options easily need testing still.
+
+This foking web I wanted randomly in a new thing, so I decided, hey let's try Vue, after seeing the option on the vite command, after being for 2 foking hours debbuging how is the typescript server not working, it was just that I needed to update vscode.
+
+Conclusion: Update your stuff, and make sure they are stable new versions only
+
+Okay, so I guess webm doesn't work on vscode neither vue so, GIF it is
