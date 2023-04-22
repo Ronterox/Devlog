@@ -1,32 +1,9 @@
-# Main Page
+<script setup lang="ts"></script>
 
-Hi there me, or other person
-This is my idea of a devlog, to the development of my brain,
-I will try to write and upload productive and unproductive things that I do so that my train an AI on my data,
-And create another little me, maybe, maybe not
+<template>
+	<pre>
 
-Also I'm doing this so I have the pressure of publishing a part of my life on the internet,
-maybe, hopefully, giving me motivation to use my procrastination as a weapon, anyway
-
-I know that once something reaches the internet is completely free and for everybody to see, so
-I won't get mad if somebody else that is not me read this, but still weird,
-
-This is mostly for me, but also if somebody finds something benefitial here, good for you buddy!
-
-# Goals
-
-Here are my current goals, maybe, is just a backlog most probably, even though, all the following goals will eventually be completed,
-no matter what, even after I die, or whatever, either because I'm not that creative and somebody does it, or I'll leave it to my robots to do it
-
-I'll try anotate them as I boss that have no idea about it, but really wants it. Like a baby pretty much, that just adds like difficulty and positivism, instead of realism? (what every negative person ever said)
-
-Money
-
-This is an essential, non-essential part of this, just another extra idea. Is mostly about a message, so I'm kind of quantifying my progress,
-like a videogame?, I should probably add another currency, like happiness, or will to live or whatever, just for game-like quantification, like for fun
-
-# Fri 21 Apr 2023
-
+<h1>Fri 21 Apr 2023</h1>
 I believe my expectations on things are to high right now, and I have no idea how to lower them, I made just use google or chatgpt to check how to start lower them,
 but my ego wont let it happen.
 
@@ -41,19 +18,21 @@ This foking web I wanted randomly in a new thing, so I decided, hey let's try Vu
 
 Conclusion: Update your stuff, and make sure they are stable new versions only
 
-[fuck-img]
+<img src="https://th.bing.com/th/id/R.87b6dcfeec6f38a3836b1caf1d8fceab?rik=sSCMOrXpsmRBZw&pid=ImgRaw&r=0" />
 
 Okay, so I guess webm doesn't work on vscode neither vue so, GIF it is
 
-[gif-img]
+<div class="images">
+<img src="../assets/webm-does-not-vue.png"/>
+<img src="../assets/vue-init.gif"/>
+</div>
 
-[gif]
 
-## Starting Vue
+<h2>Starting Vue</h2>
 
 Vue has a pretty cool interactive tutorial so that's what I've been doing,
 
-[tutorial-img]
+<img src="../assets/vue-tutorial-interactive.png"/>
 
 After completing, I can see that is pretty easy to understand, also it facilitates fast coding,
 without annoying boilerplate
@@ -63,33 +42,53 @@ you can only watch 2/10 videos free, so yeah..., it was pretty good, for the 2 v
 
 Also they are using a weird coding style that is pretty much class components for the tutorial, 
 
-[weird-style-img]
+<img src="../assets/vue-class-component.png"/>
 
 but on the vids the use the one that looks like react hooks,
 
-[react-style-img]
+<img src="../assets/vue-react-devs.png"/>
 
-So I guess, tey recommend both?
+So I guess, they recommend both?
 
-## Discovering new things
+<h2>Discovering new things</h2>
 
 This is why doing new things is fun, I just discovered a pretty cool and useful free api
 
-[json-placeholder-imgs]
+<img src="../assets/json-placeholder.png"/>
 
 And, literally the best library for any JS Project ever
 
-[confetti-imgs]
+<img src="../assets/best-js-library.png"/>
 
-Also there is this <pre> tag that you can literally just pass data as it is, and it will stay with the passed formatting
+Also there is this 'pre' tag that you can literally just pass data as it is, and it will stay with the passed formatting
 
-[pre-tag-imgs]
+<div class="images">
+<img src="../assets/without-pre-tag.png"/>
+<img src="../assets/with-pre-tag.png"/>
+</div>
 
-## Space Maniac
+<h2>Space Maniac</h2>
 
 My assets on this project are already occupying to much space (2mb), I have to get all these images on imgur,
 I add the devlog creator ASAP, so I don't have to code the blog damn pages :)
 
 Cheers
+</pre>
+</template>
 
-# Sat 22 April 2023
+<style>
+pre {
+	white-space: pre-wrap;
+	word-wrap: break-word;
+}
+img {
+	max-width: 25%;
+	height: 250px;
+	border-radius: 10px;
+}
+.images {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+</style>

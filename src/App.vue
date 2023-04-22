@@ -1,26 +1,15 @@
 <script setup lang="ts">
-import HelloWorld from "./components/HelloWorld.vue";
+import { ref } from "vue";
+import MainPage from "./components/MainPage.vue";
+import GoalsPage from "./components/GoalsPage.vue";
+import MoneyPage from "./components/MoneyPage.vue";
+
+const pageIndex = ref(0);
 </script>
 
 <template>
-	<div>
-		<img src="./assets/vue-init.gif" class="logo" alt="Vite logo" />
-		<img src="vite.svg" class="logo vue" alt="Vue logo" />
-	</div>
-	<HelloWorld msg="Vite + Vue" />
+	<button @click="pageIndex = (pageIndex + 1) % 3">Change Page</button>
+	<MainPage v-if="pageIndex === 0" />
+	<GoalsPage v-else-if="pageIndex === 1" />
+	<MoneyPage v-else />
 </template>
-
-<style scoped>
-.logo {
-	height: 6em;
-	padding: 1.5em;
-	will-change: filter;
-	transition: filter 300ms;
-}
-.logo:hover {
-	filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.vue:hover {
-	filter: drop-shadow(0 0 2em #42b883aa);
-}
-</style>
